@@ -29,5 +29,6 @@ NotifyStat.shared.setup(with: "xxx")
 ///   - publishDate: 文稿发布时间
 ///   - userID: 用户id
 ///   - notifyID: 任务id
-public func send(articleID: String, title: String, type: String, action: String, publishDate: Date, userID: String?, notifyID: String?, completion: ((Result<Any, Error>) -> ())?)
+/// public func send(articleID: String, title: String, type: String, action: String, publishDate: Date, userID: String?, notifyID: String?, completion: ((Result<Any, Error>) -> ())?)
+NotifyStat.shared.send(articleID: "135", title: "文稿标题", action: "pv", publishDate: Date())
 ```
