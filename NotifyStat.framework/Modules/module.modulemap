@@ -6,6 +6,6 @@ framework module NotifyStat {
 }
 
 module NotifyStat.Swift {
-    header "NotifyStat-Swift.h"
-    requires objc
+  header "NotifyStat-Swift.h"
+  requires objc
 }

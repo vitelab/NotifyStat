@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (5.6.2)
+  - CryptoSwift (1.6.0)
+  - NotifyStat (0.0.1):
+    - Alamofire
+    - CryptoSwift
+    - ReachabilitySwift
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - NotifyStat (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  NotifyStat:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  CryptoSwift: 562f8eceb40e80796fffc668b0cad9313284cfa6
+  NotifyStat: 7f805db869756f52841faf9f93b6bf0a8b018cc7
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: e544954973372b6af9c87f2fe9902761a3ba02de
+
+COCOAPODS: 1.11.3

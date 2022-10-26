@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NotifyStat-Swift.h</key>
 		<data>
-		otqCZRnG5D8MMfb3zc5AH8ZnN4c=
+		A0ZxnAr8X6VWTCBuqm8qLUUOGOE=
 		</data>
 		<key>Headers/NotifyStat.h</key>
 		<data>
@@ -14,27 +14,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9UdeYa0+GuEffXhEQb7eHFvpopY=
+		ZyJwN45bUeU8nVp/e+ArTmA5q0M=
 		</data>
 		<key>Modules/NotifyStat.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		+SfWvL5p51qkvCbE1qvHaDuc3GM=
+		97Wz6oiF+0YMva3OBJ6I1TryYkI=
 		</data>
 		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		DpLGJ+Oq5wSjxkRHxa4UAkviB4Y=
+		</data>
+		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		HxYeR1ZGW9Wel24MJOrZ/6U+s9k=
 		</data>
 		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		9q3ta1mpNcgQRk5ibJ4d0tWEf+M=
+		TZS5IvT3Z15UbTy2E724nCw1ZUY=
+		</data>
+		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		HxYeR1ZGW9Wel24MJOrZ/6U+s9k=
 		</data>
 		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		DWZgW9stSei7HqtXl28s/u0Q6+Q=
+		yELA/OrhHEutKG6MBm0pBngjgV0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		OG/3xkf6MI7JOQRl/cdRVj+lDsI=
+		WvOEjeu3sH17fntdGjpElQefFFA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ohc9DvQAzwdLVeLNgqtrd/z+HXIeooGFEoFmw3J8f+8=
+			G5LzsuO8f1xRLOTWZi+UjFBU83keJ0ZEd/EBlEO33U8=
 			</data>
 		</dict>
 		<key>Headers/NotifyStat.h</key>
@@ -57,35 +65,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sBg8ENlGGJpKQe9EUfpIu9sINH0ChWF2cnSfkUkPKOs=
+			04YZIur7ZZ7XWyLmYTwzqnd06h2zLmY5iZlgjIxeds4=
 			</data>
 		</dict>
 		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			z5KblEKRGTOjmasg83xcnyn/bTdHiWeSpE7Ud2lS7w4=
+			</data>
+		</dict>
+		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y3ZiG4J0xmjQI7iQDzrFax4Knh8xJKGoSkV7mCqtMyY=
 			</data>
 		</dict>
 		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yk5XBAUZc5hKsiKqecpDU2uD4kbVGyUwIW7eoUIu9Kc=
+			QkgSWsiefwsCoBXHoMRzbBsD8fYLtnR+jlXvooqRq3E=
+			</data>
+		</dict>
+		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y3ZiG4J0xmjQI7iQDzrFax4Knh8xJKGoSkV7mCqtMyY=
 			</data>
 		</dict>
 		<key>Modules/NotifyStat.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L7nq2nVJD1MtFEIWNaB18nXy+0zwWAs8VJ8tyl+Zadk=
+			wdP7eBQ30mhoBNR+yJDok0hbgFEnX9oIfMA3deohBoE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u+U0BZNvdxsaFEMfEzCSER7/DKdjXzjYMcGNPQ/Htbg=
+			WVP2nTHee6i1tN8GK9eLUPlRFL3RIH5oPL4n+vozo0g=
 			</data>
 		</dict>
 	</dict>
