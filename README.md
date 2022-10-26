@@ -1,5 +1,8 @@
 # NotifyStat-iOS
 
+### 注意
+1. 支持iOS11+
+2. 暂不支持模拟器 [原因](https://stackoverflow.com/questions/73985070/xcode-14-xcode-archive-error-unsupported-swift-architecture-import-swiftmodule)
 ## INSTALL
 
 ```Swift
