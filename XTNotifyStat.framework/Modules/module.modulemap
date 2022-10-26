@@ -1,0 +1,11 @@
+framework module XTNotifyStat {
+  umbrella header "XTNotifyStat.h"
+
+  export *
+  module * { export * }
+}
+
+module XTNotifyStat.Swift {
+  header "XTNotifyStat-Swift.h"
+  requires objc
+}

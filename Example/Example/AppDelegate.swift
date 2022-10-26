@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import NotifyStat
+import XTNotifyStat
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

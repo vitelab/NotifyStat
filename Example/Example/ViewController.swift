@@ -6,7 +6,8 @@
 //
 
 import UIKit
-import NotifyStat
+import XTNotifyStat
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
