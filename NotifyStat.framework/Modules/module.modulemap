@@ -1,0 +1,11 @@
+framework module NotifyStat {
+  umbrella header "NotifyStat.h"
+
+  export *
+  module * { export * }
+}
+
+module NotifyStat.Swift {
+    header "NotifyStat-Swift.h"
+    requires objc
+}
